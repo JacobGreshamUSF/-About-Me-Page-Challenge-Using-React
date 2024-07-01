@@ -1,0 +1,19 @@
+//U59555732
+.personal-info {
+  text-align: center;
+  margin: 20px;
+}
+
+.personal-info h1 {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.personal-info p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.personal-info a {
+  color: #0073b1;
+}
