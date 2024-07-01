@@ -1,0 +1,17 @@
+//U59555732
+.skill {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.skill h3 {
+  margin: 0;
+  color: #333;
+}
+
+.skill p {
+  margin: 5px 0 0;
+  color: #666;
+}
