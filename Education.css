@@ -1,0 +1,27 @@
+//U59555732
+.education {
+  text-align: center;
+  margin: 20px;
+}
+
+.education h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.education-item {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.education-item h3 {
+  margin: 0;
+  color: #333;
+}
+
+.education-item p {
+  margin: 5px 0 0;
+  color: #666;
+}
