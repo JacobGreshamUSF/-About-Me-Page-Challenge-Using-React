@@ -1,0 +1,26 @@
+//U59555732
+.experience-item {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.experience-item h3 {
+  margin: 0;
+  color: #333;
+}
+
+.experience-item p {
+  margin: 5px 0 0;
+  color: #666;
+}
+.experience {
+  text-align: center;
+  margin: 20px;
+}
+
+.experience h2 {
+  font-size: 2rem;
+  color: #333;
+}
