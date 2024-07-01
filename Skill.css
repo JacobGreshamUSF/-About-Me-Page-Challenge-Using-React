@@ -15,3 +15,12 @@
   margin: 5px 0 0;
   color: #666;
 }
+.skills {
+  text-align: center;
+  margin: 20px;
+}
+
+.skills h2 {
+  font-size: 2rem;
+  color: #333;
+}
